@@ -13,7 +13,6 @@
 
 - 🌱 Rust, Flutter ve .NET 10 ile ürün geliştiriyorum
 - 🇹🇷 Türkiye'ye yönelik açık kaynak çözümler üretmeyi seviyorum
-- 💬 Bana proje fikirleri hakkında yazabilirsin
 
 ## 🛠️ Teknolojiler
 
