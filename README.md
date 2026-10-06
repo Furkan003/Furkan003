@@ -11,7 +11,6 @@
 
 ## 🧑‍💻 Hakkımda
 
-- 🔭 Şu an **Orhunca** üzerinde çalışıyorum
 - 🌱 Rust, Flutter ve .NET 10 ile ürün geliştiriyorum
 - 🇹🇷 Türkiye'ye yönelik açık kaynak çözümler üretmeyi seviyorum
 - 💬 Bana proje fikirleri hakkında yazabilirsin
@@ -31,6 +30,8 @@
 
 ## 📅 Katkı Grafiği
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Furkan003&theme=github-compact&hide_border=true&area=true" width="100%" />
+<p align="center">
+  <img src="https://ghchart.rshah.org/39d353/Furkan003" alt="Katkı grafiği" width="100%" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0883e,50:bc8cff,100:58a6ff&height=100&section=footer" width="100%" />
